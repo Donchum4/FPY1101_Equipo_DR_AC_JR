@@ -1,3 +1,6 @@
+def datos_joaco():
+    print("Mi nombre es joaquin y tengo 18 años.")
+
 # Menú base del programa
 while True:
  print("\n--- MENÚ PRINCIPAL ---")
@@ -12,6 +15,7 @@ while True:
  elif op == "1":
      pass # Aquí se llamará a la función del integrante 1
  elif op == "2":
+    datos_joaco():
     pass # Aquí se llamará a la función del integrante 2
  elif op == "3":
     pass # Aquí se llamará a la función del integrante 3
