@@ -19,7 +19,7 @@ while True:
      datos_DiegoRivera()
      pass # Aquí se llamará a la función del integrante 1
  elif op == "2":
-    datos_joaco():
+    datos_joaco()
     pass # Aquí se llamará a la función del integrante 2
  elif op == "3":
     pass # Aquí se llamará a la función del integrante 3
