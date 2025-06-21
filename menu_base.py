@@ -3,7 +3,8 @@ def datos_DiegoRivera():
   print("Mi nombre es Diego Rivera y tengo 19 años.")
 def datos_joaco():
     print("Mi nombre es joaquin y tengo 18 años.")
-
+def datos_andres():
+ print("Mi nombre es Andres Cereño y tengo 20 años")
 # Menú base del programa
 while True:
  print("\n--- MENÚ PRINCIPAL ---")
@@ -22,6 +23,6 @@ while True:
     datos_joaco():
     pass # Aquí se llamará a la función del integrante 2
  elif op == "3":
-    pass # Aquí se llamará a la función del integrante 3
+    datos_andres()
  else:
     print(" Opción inválida.")
