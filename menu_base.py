@@ -14,7 +14,6 @@ while True:
     break
  elif op == "1":
      datos_DiegoRivera()
-     pass # Aquí se llamará a la función del integrante 1
  elif op == "2":
     pass # Aquí se llamará a la función del integrante 2
  elif op == "3":
